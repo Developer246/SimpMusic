@@ -99,3 +99,4 @@ jobs:
         with:
           name: app-foss-release
           path: app/build/outputs/apk/foss/release/*.apk
+
